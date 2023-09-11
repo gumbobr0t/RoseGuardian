@@ -38,7 +38,7 @@ RoseGuardian is a powerful Python code obfuscator designed to safeguard your int
 - :closed_lock_with_key: Strong Class and Function Renaming
 - :inbox_tray: Code Compression with zlib
 - :package: Create Marshalized Objects
-- :scroll: Remove Docstrings and Comments
+- :scroll: Remove Comments
 
 <div id="usage"></div>
 
