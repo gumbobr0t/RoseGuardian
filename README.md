@@ -1,2 +1,60 @@
-# RoseGuardian
-A Cutting-Edge Python Obfuscator Engineered for Enhanced Security and Intellectual Property Protection. Safeguard your code with advanced techniques and robust encryption, ensuring it remains confidential and impenetrable to prying eyes.
+<div align="center" id="top"> 
+  <img src="./img.png" alt="RoseGuardian Logo" />
+  <br />
+  <br />
+  <p>:rose: A Python Code Obfuscator :shield:</p>
+</div>
+
+<h1 align="center">RoseGuardian</h1>
+
+<p align="center">
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/DamagingRose/RoseGuardian">
+  <img alt="Stars" src="https://img.shields.io/github/stars/DamagingRose/RoseGuardian">
+  <img alt="License" src="https://img.shields.io/github/license/DamagingRose/RoseGuardian">
+</p>
+
+<p align="center">
+  <a href="#about">About</a> &#xa0; | &#xa0; 
+  <a href="#features">Features</a> &#xa0; | &#xa0;
+  <a href="#usage">Usage</a> &#xa0; | &#xa0;
+  <a href="#license">License</a> &#xa0; | &#xa0;
+  <a href="#author">Author</a>
+</p>
+
+<br>
+
+## About :rose:
+
+RoseGuardian is a powerful Python code obfuscator designed to safeguard your intellectual property. It employs advanced techniques to obscure your source code, making it significantly more challenging for potential reverse engineers to understand or modify.
+
+## Features :sparkles:
+
+- :closed_lock_with_key: Strong Class, Function, and Variable Renaming
+- :compression: Code Compression with zlib
+- :package: Create Marshalized Objects
+- :scroll: Remove Docstrings and Comments
+
+## Usage :rocket:
+
+For optimal obfuscation, it is recommended to set the junk layers to 10 and utilize obfuscation method 1.
+
+```bash
+# Clone the project
+$ git clone https://github.com/DamagingRose/RoseGuardian
+
+# Navigate to project directory
+$ cd RoseGuardian
+
+# Run the project
+$ python RoseGuardian.py <your_file> <junk_layers> <obfuscation_method>
+```
+
+## License :page_facing_up:
+
+This project is licensed under the EPL-2.0 license.
+
+## Author :mortar_board:
+
+Developed with :heart: by gumbobrot
+
+<a href="#top">Back to top</a>
