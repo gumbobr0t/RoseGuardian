@@ -177,6 +177,6 @@ This project is licensed under the EPL-2.0 license.
 
 ## Author :mortar_board:
 
-Developed with :heart: by gumbobrot
+Developed with :heart: by [gumbobrot](https://github.com/gumbobr0t)
 
 <a href="#top">Back to top</a>
