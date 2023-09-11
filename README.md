@@ -23,16 +23,22 @@
 
 <br>
 
+<div id="about"></div>
+
 ## About :rose:
 
 RoseGuardian is a powerful Python code obfuscator designed to safeguard your intellectual property. It employs advanced techniques to obscure your source code, making it significantly more challenging for potential reverse engineers to understand or modify.
 
+<div id="features"></div>
+
 ## Features :sparkles:
 
 - :closed_lock_with_key: Strong Class, Function, and Variable Renaming
-- :compression: Code Compression with zlib
+- :inbox_tray: Code Compression with zlib
 - :package: Create Marshalized Objects
 - :scroll: Remove Docstrings and Comments
+
+<div id="usage"></div>
 
 ## Usage :rocket:
 
@@ -49,9 +55,13 @@ $ cd RoseGuardian
 $ python RoseGuardian.py <your_file> <junk_layers> <obfuscation_method>
 ```
 
+<div id="license"></div>
+
 ## License :page_facing_up:
 
 This project is licensed under the EPL-2.0 license.
+
+<div id="author"></div>
 
 ## Author :mortar_board:
 
