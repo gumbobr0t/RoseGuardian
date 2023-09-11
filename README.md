@@ -46,7 +46,7 @@ For optimal obfuscation, it is recommended to set the junk layers to 10 and util
 
 ```bash
 # Clone the project
-$ git clone https://github.com/DamagingRose/RoseGuardian
+$ git clone https://github.com/DamagingRose/RoseGuardian.git
 
 # Navigate to project directory
 $ cd RoseGuardian
